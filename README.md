@@ -4,7 +4,7 @@
 
 + Fork this repository and create a GitHub actions pipeline following given below instructions.
 
-1. Fork this Github repository
+1. Fork this Github repository and create a public repo.
 2. This sample springboot application requires below command to build a jar file.
 
 ```bash
